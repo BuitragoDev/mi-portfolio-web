@@ -553,7 +553,7 @@
                                                 </div>
 
                                                 <div class="timeline-header">
-                                                    <h5>Curso en Teleformación</h5>
+                                                    <h5>Teleformación</h5>
                                                     <p>Enero 2025 - Marzo 2025</p>
                                                 </div>
 
@@ -577,7 +577,7 @@
                                                 </div>
 
                                                 <div class="timeline-content">
-                                                    <h5>Programación con Lenguajes Orientados a Objetos y Bases de Datos relacionales.</h5>
+                                                    <h5>Programación con Lenguajes Orientados a Objetos (C# y Java) y BD relacionales.</h5>
                                                     <p>CFTIC (Getafe) - (320 horas)</p>
                                                     <hr>
                                                 </div>
