@@ -3,7 +3,7 @@
 	$email = $_POST['email'];
 	$asunto = $_POST['asunto'];
 	$mensaje = $_POST['mensaje'];
-	$to = "abuitrago@educa.madrid.org";
+	$to = "buitragodev@gmail.com";
 
 	//Estoy recibiendo el formulario, compongo el cuerpo
 	$cuerpo = "<h1>Mensaje recibido desde www.abuitrago.es</h1>";
