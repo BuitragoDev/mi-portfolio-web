@@ -553,6 +553,44 @@
                                                 </div>
 
                                                 <div class="timeline-header">
+                                                    <h5>Curso en Teleformación</h5>
+                                                    <p>Enero 2025 - Marzo 2025</p>
+                                                </div>
+
+                                                <div class="timeline-content">
+                                                    <h5>Iniciación a la Programación en Python</h5>
+                                                    <p>IBM y Bejob - (50 horas)</p>
+                                                    <hr>
+                                                </div>
+
+                                            </div> <!-- /timeline-block -->
+
+                                            <div class="timeline-block">
+
+                                                <div class="timeline-ico">
+                                                    <i class="fa fa-graduation-cap"></i>
+                                                </div>
+
+                                                <div class="timeline-header">
+                                                    <h5>Curso Presencial</h5>
+                                                    <p>Sep. 2024 - Diciembre 2024</p>
+                                                </div>
+
+                                                <div class="timeline-content">
+                                                    <h5>Programación con Lenguajes Orientados a Objetos y BD relacionales.</h5>
+                                                    <p>CFTIC (Getafe) - (320 horas)</p>
+                                                    <hr>
+                                                </div>
+
+                                            </div> <!-- /timeline-block -->
+
+                                            <div class="timeline-block">
+
+                                                <div class="timeline-ico">
+                                                    <i class="fa fa-graduation-cap"></i>
+                                                </div>
+
+                                                <div class="timeline-header">
                                                     <h5>Curso Presencial</h5>
                                                     <p>Sep. 2023 - Febrero 2024</p>
                                                 </div>
