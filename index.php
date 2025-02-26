@@ -577,7 +577,7 @@
                                                 </div>
 
                                                 <div class="timeline-content">
-                                                    <h5>Programación con Lenguajes Orientados a Objetos y BD relacionales.</h5>
+                                                    <h5>Programación con Lenguajes Orientados a Objetos y Bases de Datos relacionales.</h5>
                                                     <p>CFTIC (Getafe) - (320 horas)</p>
                                                     <hr>
                                                 </div>
