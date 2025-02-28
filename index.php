@@ -202,7 +202,8 @@
                         <!-- Gráfico de Progreso de PHP -->
                         <div class="progress-bar-container d-flex flex-column gap-3">
                             <div class="d-flex justify-content-center gap-3">
-                                <i class="fa-brands fa-php fs-1"></i>                              
+                                <i class="fa-brands fa-php fs-1"></i>
+                                <i class="fa-solid fa-database fs-1"></i>                             
                             </div>
                             <div class="circle-wrap">
                                 <div class="circle">
@@ -216,28 +217,7 @@
                                 </div>
                             </div>
                             <div class="d-flex justify-content-center gap-3">
-                                <p>PHP</p>
-                            </div>
-                        </div>
-
-                        <!-- Gráfico de Progreso de MySQL -->
-                        <div class="progress-bar-container d-flex flex-column gap-3">
-                            <div class="d-flex justify-content-center gap-3">
-                                <i class="fa-solid fa-database fs-1"></i>
-                            </div>
-                            <div class="circle-wrap">
-                                <div class="circle">
-                                    <div class="mask full" style="--fill: 90;">
-                                        <div class="fill"></div>
-                                    </div>
-                                    <div class="mask half" style="--fill: 90;">
-                                        <div class="fill"></div>
-                                    </div>
-                                    <div class="inside-circle"> 90% </div>
-                                </div>
-                            </div>
-                            <div class="d-flex justify-content-center gap-3">
-                                <p>MySQL</p>
+                                <p>PHP / MySQL</p>
                             </div>
                         </div>
 
@@ -282,6 +262,29 @@
                                 <p>WordPress</p>
                             </div>
                         </div>
+
+                        <!-- Gráfico de Progreso de Python -->
+                        <div class="progress-bar-container d-flex flex-column gap-3">
+                            <div class="d-flex justify-content-center gap-3">
+                            <i class="fa-brands fa-python fs-1"></i>
+                            </div>
+                            <div class="circle-wrap">
+                                <div class="circle">
+                                    <div class="mask full" style="--fill: 70;">
+                                        <div class="fill"></div>
+                                    </div>
+                                    <div class="mask half" style="--fill: 70;">
+                                        <div class="fill"></div>
+                                    </div>
+                                    <div class="inside-circle"> 70% </div>
+                                </div>
+                            </div>
+                            <div class="d-flex justify-content-center gap-3">
+                                <p>Python</p>
+                            </div>
+                        </div>
+
+
                     </div>
                 </div> <!-- /row -->
             </div> <!-- /container -->
